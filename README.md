@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsinayak826742&label=Profile%20views&color=0e75b6&style=flat" alt="vamsinayak826742" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsinayak826742" alt="vamsinayak826742" /></a> </p>
+
 - 🔭 I’m currently working on **Advanced Driver Assistance Systems (ADAS)**
 
 - 🌱 I’m currently learning **Java, React JS and Data Structures and Algorithms**
