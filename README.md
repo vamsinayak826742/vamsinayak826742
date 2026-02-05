@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Banavathu Vamsi Nayak</h1>
-<h3 align="center">I am an aspiring software developer with a strong understanding of programming and a solid foundation in Java, Servlets, JDBC and Mysql. I enjoy solving problems and have a growing interest in data structures and algorithms. I am eager to learn new technologies, work in collaborative environments, and contribute to real-world projects. My goal is to grow as a developer and create software that adds value.</h3>
+<h3 align="center">Associate System Engineer at IBM working with the Microsoft .NET technology stack. Currently involved in developing applications using C#, ASP.NET, .NET Core, and SQL Server, with exposure to Azure. Focused on learning, building scalable solutions, and improving technical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsinayak826742&label=Profile%20views&color=0e75b6&style=flat" alt="vamsinayak826742" /> </p>
 
