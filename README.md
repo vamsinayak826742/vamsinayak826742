@@ -7,9 +7,9 @@
 
 - 🔭 I worked on Project [Advanced Driver Assistance Systems (ADAS)](https://github.com/vamsinayak826742/ADAS)
 
-- 🌱 I’m currently learning **Core Java, Advanced Java and Data Structures and Algorithms**
+- 🌱 I’m currently learning **.NET Core, .NET Framework, ASP.NET core, C#, Core Java, Advanced Java and Data Structures and Algorithms**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **vamsinayakbanavathu@gmail.com**
 
